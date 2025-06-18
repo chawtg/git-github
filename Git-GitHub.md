@@ -1,8 +1,5 @@
 # Git and GitHub
 
-Owner: Chaw Theingi
-Created time: June 14, 2025 8:41 PM
-
 # Git and GitHub differences
 
 | **Feature** | **Git** | **GitHub** |
@@ -21,7 +18,7 @@ Created time: June 14, 2025 8:41 PM
 
 # Simple Git Workflow and commands
 
-![Screenshot 2568-06-14 at 8.54.37 PM.png](Git%20and%20GitHub%202125fbbfbfd380e194b8cb82c1ab0f04/Screenshot_2568-06-14_at_8.54.37_PM.png)
+![Screenshot 2568-06-14 at 8.54.37 PM.png](Screenshot_2568-06-14_at_8.54.37_PM.png)
 
 ## git clone
 
@@ -530,7 +527,7 @@ But, after that, I changed my mind and want to reset to third commit instead.
 
 So, I used reflog to check third commit’s number and can still reset to third commit.
 
-![Screenshot 2568-06-17 at 10.59.03 AM.png](Git%20and%20GitHub%202125fbbfbfd380e194b8cb82c1ab0f04/Screenshot_2568-06-17_at_10.59.03_AM.png)
+![Screenshot 2568-06-17 at 10.59.03 AM.png](Screenshot_2568-06-17_at_10.59.03_AM.png)
 
 **🔚 Summary**
 
