@@ -1,4 +1,13 @@
+
 # Git and GitHub
+
+# Purpose
+
+- This repository is created **for my personal learning and educational purposes**.  
+
+- **Not for commercial, enterprise, or profit-making use**.
+
+
 
 # Git and GitHub differences
 
@@ -6,19 +15,10 @@
 | --- | --- | --- |
 | Type | Version Control tool | Cloud Platform / Hosting service |
 | Runs on | Your local machine (command line) | Web (cloud), but supports local interaction |
-| Purpose | 1) Track and manage code changes
-2) Share and collaborate with others (locally or remotely)
-3) Branch the code | 1) Share and collaborate on Git repositories in cloud
-2) Built-in security features
-3) Provides Workflow
-4) Provides free hosting |
-| Requires Git? | — | ✅ Yes, Git is the engine |
-| Internet needed? | ❌ No (works offline) | ✅ Yes (to push/pull) |
-| Example usage | `git commit`, `git push` | Creating Pull Requests, Issues, CI/CD |
+
 
 # Simple Git Workflow and commands
 
-![Screenshot 2568-06-14 at 8.54.37 PM.png](Screenshot_2568-06-14_at_8.54.37_PM.png)
 
 ## git clone
 
@@ -527,7 +527,7 @@ But, after that, I changed my mind and want to reset to third commit instead.
 
 So, I used reflog to check third commit’s number and can still reset to third commit.
 
-![Screenshot 2568-06-17 at 10.59.03 AM.png](Screenshot_2568-06-17_at_10.59.03_AM.png)
+
 
 **🔚 Summary**
 
